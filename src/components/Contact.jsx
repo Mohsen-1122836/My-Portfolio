@@ -24,8 +24,6 @@ export default function Contact() {
         Want to Contact Me? Reach me via whatapp or email.
       </motion.p>
 
-      
-
       <div className="mt-6 flex justify-center gap-4">
         <a
           href="https://wa.me/201114910513"
@@ -37,7 +35,7 @@ export default function Contact() {
         </a>
 
         <a
-          href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsenmontaser33@gmail.com"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=mhsnmntsrr33@gmail.com"
           target="_blank"
           rel="noreferrer"
           className="btn outline"

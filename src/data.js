@@ -1,10 +1,10 @@
 export const profile = {
   name: "Mohsen Montaser",
   title: "Frontend Developer | React.js",
-  email: "mohsenmontaser33@gmail.com",
+  email: "mhsnmntsr33@gmail.com",
   phone: "+20 1114910513",
   location: "Maadi, Cairo, Egypt",
-  linkedin: "https://www.linkedin.com/in/mohsen-montaser",
+  linkedin: "https://www.linkedin.com/in/mohsen-montaser-244361350/",
   github: "https://github.com/Mohsen-1122836"
 };
 
@@ -26,7 +26,7 @@ export const projects = [
   {
     title: "Daniels Portfolio Website",
     description: "Responsive portfolio built with HTML/CSS/Bootstrap and JS.",
-    image: "/images/daniels-portfolio.png",
+    image: "/images/Daniels.png",
     demo: "https://daniels-project-eta.vercel.app/",
     github: "https://github.com/Mohsen-1122836/Daniels-Project"
   },
@@ -36,8 +36,15 @@ export const projects = [
     image: "/images/mealify.png",
     demo: "https://mealify-app-lilac.vercel.app/",
     github: "https://github.com/Mohsen-1122836/Mealify-App"
+  },
+  {
+    title: "Echo App",
+    description: "Social media app",
+    image: "/images/Echo.png",
+    demo: "https://echo-app-seven.vercel.app/",
+    github: "https://github.com/Mohsen-1122836/Echo-App"
   }
-  
+
 ];
 
 export const experiences = [
@@ -46,9 +53,10 @@ export const experiences = [
     org: "Route Academy",
     period: "Mar 2025 – Sep 2025",
     bullets: [
-      "Developed responsive websites with React, Tailwind and Bootstrap.",
-      "Optimized cross-platform performance and collaborated using Git/GitHub.",
-      "Translated Figma UI/UX into front-end components."
+      "Developed responsive websites using HTML, CSS, JavaScript, and frameworks Bootstrap, Tailwind, React.js, Next.js.",
+      "Ensured cross-platform compatibility and optimized performance.",
+      "Utilized Git/GitHub for version control and teamwork",
+      "Collaborated with backend developers to integrate APIs and enhance functionality."
     ]
   },
   {
@@ -56,8 +64,10 @@ export const experiences = [
     org: "Information Technology Institute (ITI)",
     period: "Jun 2025 – Sep 2025",
     bullets: [
-      "Built user-centered interfaces, prototyping and wireframing.",
-      "Gained exposure to databases, OS, and networking."
+      "Participating in a full-time training program focused on modern UI/UX design and frontend development.",
+      "Building responsive, user-centered web interfaces using HTML, CSS, JavaScript, and Bootstrap.",
+      "Applying UI/UX principles through wireframing, prototyping, and visual design for web applications.",
+      "Collaborating on team projects to simulate real-world development scenarios and enhance practical skills."
     ]
   },
   {
@@ -65,7 +75,9 @@ export const experiences = [
     org: "Outlier",
     period: "Jan 2024 – Present",
     bullets: [
-      "Improved chatbot code responses for relevance and accuracy."
+      "Enhanced and updated chatbot responses to improve accuracy, relevance, and user engagement.",
+      "Reviewed and refined AI-generated code snippets to ensure correctness and adherence to best practices.",
+      "Collaborated with a team of trainers to maintain consistency and quality across the AI training dataset."
     ]
   }
 ];
