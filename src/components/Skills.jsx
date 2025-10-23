@@ -19,13 +19,7 @@ export default function Skills() {
     { node: <SiTailwindcss className="text-sky-400" />, title: "Tailwind" },
     { node: <SiBootstrap className="text-purple-500" />, title: "Bootstrap" },
     {
-      node: (
-        <img
-          src="/public/images/Vite.js.svg"
-          alt="Vite"
-          className="w-10 h-10"
-        />
-      ),
+      node: <img src="/images/Vite.js.svg" alt="Vite" className="w-10 h-10" />,
       title: "Vite",
     },
     {
@@ -39,9 +33,7 @@ export default function Skills() {
       title: "Framer Motion",
     },
     {
-      node: (
-        <img src="/public/images/redux.svg" alt="Redux" className="w-10 h-10" />
-      ),
+      node: <img src="/images/redux.svg" alt="Redux" className="w-10 h-10" />,
       title: "Redux",
     },
   ];
