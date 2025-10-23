@@ -33,7 +33,7 @@ export default function Skills() {
       title: "Framer Motion",
     },
     {
-      node: <img src="/images/redux.svg" alt="Redux" className="w-10 h-10" />,
+      node: <img src="/images/Redux.svg" alt="Redux" className="w-10 h-10" />,
       title: "Redux",
     },
   ];
